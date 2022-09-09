@@ -3,6 +3,7 @@
     margin: 0;padding: 0;
     background-repeat: no-repeat;
     max-width: 100%;
+	
 
 }
 
@@ -540,7 +541,7 @@ i#icon {
 
 
 
-
+/* 
 
 
  @media (any-pointer: fine) {
@@ -561,7 +562,7 @@ i#icon {
 		 top: 50%;
 		 width: 5px;
 		 height: 1px;
-		 background: #ecb16c;
+		 background: #eb7231;
 		 opacity: 0;
 	}
 	 .c-cursor__side--left {
@@ -571,8 +572,8 @@ i#icon {
 		 left: calc(100% + 5px);
 	}
 	 .c-cursor__inner--circle {
-		 width: 25px;
-		 height: 25px;
+		 width: 40px;
+		 height: 40px;
 		 border: 1px solid #ecb16c;
 	}
-}
+} */
